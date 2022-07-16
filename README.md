@@ -10,12 +10,11 @@
 </h1>
 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+A man who entered the <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> world of programming.
+- :telescope: I am studying Python, striving to become a backend developer. I take a million courses, almost practice every day solving puzzles and reading books.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am studying at a technical university.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve puzzles, read books and have fun in the discord.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
