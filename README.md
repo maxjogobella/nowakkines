@@ -21,11 +21,11 @@ interests = ['productivity tools', 'foreign languages', 'books', 'lofi',
             'draw', 'american culture', 'music', 'meditation', 'guitar']
 
 def beAlive(self):
-    do([assignments, projects], languages);
-    learnAbout(tech);
-    pursue(interests);
-    sleep(25200);
-    return(impact);
+    do([assignments, projects], languages)
+    learnAbout(tech)
+    pursue(interests)
+    sleep(25200)
+    return(impact)
 ```
 
 
