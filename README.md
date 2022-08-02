@@ -20,7 +20,7 @@ tech = ['Dart', 'Flutter', 'OOP of Python']
 interests = ['productivity tools', 'foreign languages', 'books', 'lofi',
             'draw', 'american culture', 'music', 'meditation', 'guitar']
 
-gratitude = ['Avannit', 'Greg Plitt', 'SECCURITY_TESTING', 'egoroff', 'Сергей Балакирев']
+gratitude = ['Avannit', 'Greg Plitt', 'egoroff']
 
 def beAlive(self):
     do([assignments, projects], languages)
