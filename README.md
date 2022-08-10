@@ -16,7 +16,7 @@ def beAlive(self):
     pursue(interests)
     sleep(25200)
     appreciate(gratitude)
-    return(impact)
+    return 'Hello, world!'
 ```
 
 
