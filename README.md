@@ -11,7 +11,7 @@ def beAlive(self):
     learnAbout(teach)
     pursue(interests)
     sleep(25200)
-    return 'Hello, world!'
+    return 'whoami'
 ```
 
 
