@@ -1,5 +1,5 @@
 ``` python
-name = 'Max Nowak'
+name = 'whoami'
 languages = ['Python', 'HTML', 'CSS']
 teach = ['Dart', 'Flutter', 'OOP of Python']
 interests = ['productivity tools', 'foreign languages', 'books', 'lofi',
