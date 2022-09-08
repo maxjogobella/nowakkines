@@ -3,7 +3,7 @@ name = 'whoami'
 languages = ['Python', 'HTML', 'CSS']
 teach = ['Dart', 'Flutter', 'OOP of Python']
 interests = ['productivity tools', 'foreign languages', 'books', 'lofi',
-            'draw', 'american culture', 'music', 'meditation', 'guitar']
+             'american culture', 'music', 'meditation', ]
 
 
 def beAlive(self):
