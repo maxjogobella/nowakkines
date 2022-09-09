@@ -10,7 +10,7 @@ def beAlive(self):
     learnAbout(teach)
     pursue(interests)
     sleep(25200)
-    return 'whoami'
+    return 'no system is safe'
 ```
 
 
