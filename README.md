@@ -1,6 +1,6 @@
 ``` python
 languages = ['Python', 'HTML', 'CSS']
-teach = ['Dart', 'OOP', JavaScript]
+teach = ['Dart', 'OOP', 'JavaScript']
 interests = ['productivity tools', 'foreign languages', 'books', 'lofi',
              'meditation']
 
