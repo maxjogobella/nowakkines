@@ -11,7 +11,7 @@ def beAlive(self):
     learnAbout(teach)
     pursue(interests)
     sleep(25200)
-    return "i'm so tired"
+    return True
 ```
 
 <h3 align="left">Statistics:</h3>
