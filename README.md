@@ -14,6 +14,7 @@ def beAlive(self):
     return "i'm so tired"
 ```
 
+<h3 align="left">Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ap7kj&show_icons=true&locale=en&theme=tokyonight" alt="ap7kj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ap7kj&&theme=tokyonight" alt="ap7kj" /></p>
