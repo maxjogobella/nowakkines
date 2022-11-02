@@ -16,7 +16,7 @@ def beAlive(self):
 ```
 
 <h1 align='center'>How do I take off a mask when it stops being a mask, when it's as much a part of me as I am?</h1>
-<h3 align='left'>ㅤㅤㅤㅤㅤㅤAssessmentㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤStick</h3>
+<h3 align='left'>ㅤㅤㅤㅤㅤㅤㅤAssessmentㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤStick</h3>
 <p>
   <img leight='197' width='350' align="left" src="https://github-readme-stats.vercel.app/api?username=ap7kj&show_icons=true&locale=en&theme=tokyonight" alt="ap7kj" />
   <img leight='197' width='350' align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ap7kj&&theme=tokyonight" alt="ap7kj" />
