@@ -19,7 +19,7 @@ def beAlive(self):
 <h3 align='left'>Assessment</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ap7kj&show_icons=true&locale=en&theme=tokyonight" alt="ap7kj" />
-  <h3 align="right">Streak</h3>
+  <h3 align="center">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤStreak</h3>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ap7kj&&theme=tokyonight" alt="ap7kj" />
 </p>
 
