@@ -5,7 +5,7 @@
 
 ``` python
 interests = ['productivity tools', 'foreign languages', 'books', 'lofi',
-             'meditation']
+             'meditation', 'finance', 'sturtups', 'gym']
 
 def beAlive(self):
     do([assignments, projects], languages)
