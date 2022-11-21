@@ -15,6 +15,4 @@ def beAlive(self):
     return True
 ```
 
-<h1 align='center'>How do I take off a mask when it stops being a mask, when it's as much a part of me as I am?</h1>
-
 
