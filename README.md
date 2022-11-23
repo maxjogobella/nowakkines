@@ -5,17 +5,5 @@
 ## Listening to
 &nbsp; <br> [![Spotify](https://novatorem-ap7kj.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/jmvcy04o6v4dzwcnwox73zsj4)
 
-### 101001001 00100000 01101100 01101111 01110110 01100101 00100000 01110000 01111001 01110100 01101000 01101111 01101110
-``` python
-interests = ['productivity tools', 'foreign languages', 'books', 'lofi',
-             'meditation', 'finance', 'sturtups', 'gym']
-
-def beAlive(self):
-    do([assignments, projects], languages)
-    learnAbout(teach)
-    pursue(interests)
-    sleep(25200)
-    return True
-```
 
 
