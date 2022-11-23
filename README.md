@@ -7,10 +7,8 @@
   ``` python
 interests = ['productivity tools', 'foreign languages', 
                'books', 'lofi', 'startups', 'gym
-  
 def beAlive(self):
     do([assignments, projects], languages)
-    pursue(interests)
     sleep(28800)
     return(impact)
 ```
